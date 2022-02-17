@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "express": "^4.17.3"
-  }
+  },
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "tugas-expressjs",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ram27-titan/Tugas-express-js.git"
+  },
+  "author": "ari alamsyah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ram27-titan/Tugas-express-js/issues"
+  },
+  "homepage": "https://github.com/ram27-titan/Tugas-express-js#readme"
 }
